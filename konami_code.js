@@ -2,9 +2,10 @@ const code = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65]
 const alphabet = [65, 66, 67]
 
 function init() {
+  document.body('keydown'),function(event) {
+    alert
   // Write your JavaScript code inside the init() function
-  // Key codes for A, B, and C keys.
-
+  // Key codes for A, B, and C keys
  
 // Keep track of index outside of the event handler.
 let index = 0;

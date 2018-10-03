@@ -19,6 +19,6 @@ function init() {
   document.body.addEventListener('keydown',onKeyDownHandler)
 }
 
-innit ()
+init ()
   
  

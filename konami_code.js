@@ -16,7 +16,8 @@ function onKeyDownHandler(e) {
 
 function init() {
   document.body.addEventListener('keydown',function(event) {
-    alert (event.which)
+    alert (event.which);
+    alert ('Congratulations, you clicked the special code!')
     
   })
 }
